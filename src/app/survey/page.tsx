@@ -141,7 +141,7 @@ const page = () => {
                   clipRule="evenodd"
                 />
               </svg>
-              I'd rather not answer this question
+              I&apos;d rather not answer this question
             </button>
           </div>
         </div>
